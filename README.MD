@@ -75,7 +75,7 @@ Click the above link to find the lab page.
 
 ### ![Self Learning material](https://github.com/khwang0/Line-chatbot-for-COMP3111/tree/master/docs/tutorial)
 You are supposed to read the self-learning material according to the lab schedule.
-
+ 
 <!-- ## Grading
 
 * midterm 10%
