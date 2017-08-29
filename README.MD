@@ -96,10 +96,10 @@ This year we are working on a project about a chatbot (chatting robot) on the ap
 
 Role | Name | github | email | room 
 ---|---|---|---|---
-Instructor | **Prof. Sung Kim** | [![@hunkim](http://github.com/hunkim.png?size=100)](http://github.com/hunkim) | humkim at cse | 2527
-TA | **Dr. Kevin Wang** |  [![@khwang0](http://github.com/khwang0.png?size=100)](http://github.com/khwang0) | kevinw at cse | TBA
-TA | **Hu Jiajun** | [![@RichardHoOoOo](http://github.com/RichardHoOoOo.png?size=100)](http://github.com/RichardHoOoOo) | jhuao at cse |
-TA | **WEI, Lili** | [![@frankFic](http://github.com/frankFic.png?size=100)](http://github.com/frankFic) | lweiae at cse | 
+Instructor | **Prof. Sung Kim** | [![@hunkim](https://github.com/hunkim.png?size=100)](https://github.com/hunkim) | humkim at cse | 2527
+TA | **Dr. Kevin Wang** |  [![@khwang0](https://github.com/khwang0.png?size=100)](https://github.com/khwang0) | kevinw at cse | TBA
+TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?size=100)](https://github.com/RichardHoOoOo) | jhuao at cse |
+TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
 TA | **Wong Kam Kwai**  | |     kkwongar at cse |
 TA | **Kwan Victor Wing-Chuen**  |  |  vwkwan at cse |
 TA | **Tang Wensheng** |  | wtangae at cse |
