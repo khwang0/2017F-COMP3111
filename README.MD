@@ -92,8 +92,6 @@ This year we are working on a project about a chatbot (chatting robot) on the ap
 
 ## Teaching Team
 
-### Instructor
-
 Role | Name | github | email | room 
 ---|---|---|---|---
 Instructor | **Prof. Sung Kim** | [![@hunkim](https://github.com/hunkim.png?size=100)](https://github.com/hunkim) | humkim at cse | 2527
