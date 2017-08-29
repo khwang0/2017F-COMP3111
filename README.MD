@@ -100,7 +100,7 @@ TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?siz
 TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
 TA | **Wong Kam Kwai**  | |     kkwongar at cse |
 TA | **Kwan Victor Wing-Chuen**  |  |  vwkwan at cse |
-TA | **Tang Wensheng** |  | wtangae at cse |
+TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
 
 
 
