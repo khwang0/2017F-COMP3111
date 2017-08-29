@@ -2,7 +2,7 @@
 
 ## News ##
 
-> 28/8/2017: Hello World
+> 28/8/2017: There is no tutorial on 1/9/2017. 
 
 ## Course Information ##
 
@@ -42,7 +42,7 @@
 | Wk # | Milestones/ Assignment/ Exam            | Lecture (Tu/Th) |        |                                                      | Lab (Mo/Tu/Th/Fr) |                           | Tutorial (Th/Fr) |                                     |
 |------|-----------------------------------------|-----------------|--------|------------------------------------------------------|-------------------|---------------------------|------------------|-------------------------------------|
 |      |                                         | #               | Date   | Topic                                                | #                 | Lab Topic                 | #                | Topic                               |
-| 1    |                                         | 1               | 5-Sep  | Overview and Project Introduction                    |                   |                           | 1                | Introduction / git / Java           |
+| 1    |                                         | 1               | 5-Sep  | Overview and Project Introduction                    |                   |                           | 1 (**7-8/9**)               | Introduction / git / Java           |
 |      |                                         | 2               | 7-Sep  | Java                             |                   |                           |                  |                                     |
 | 2    | Sep 15: Milestone 0                     | 3               | 12-Sep | Java                                                 | 1                 | Deploying a chatbot       | 2                | Java/Spring                         |
 |      |                                         | 4               | 14-Sep | Java Spring                            |                   |                           |                  |                                     |
