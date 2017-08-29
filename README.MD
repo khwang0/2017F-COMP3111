@@ -84,7 +84,7 @@ You are supposed to read the self-learning material according to the lab schedul
 * final 20% 
 * group project 50%
 
-
+ 
 
 ## Project Specification
 This year we are working on a project about a chatbot (chatting robot) on the app LINE. Details will be released soon.
