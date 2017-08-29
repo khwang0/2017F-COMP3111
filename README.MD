@@ -78,11 +78,12 @@ You are supposed to read the self-learning material according to the lab schedul
   
 ## Grading
 
+* individual assignment 10% 
+* lab 10%
 * midterm 10%
 * final 20% 
-* lab 10%
 * group project 50%
-* individual assignment 10% 
+
 
 
 ## Project Specification
@@ -93,30 +94,16 @@ This year we are working on a project about a chatbot (chatting robot) on the ap
 
 ### Instructor
 
+Role | Name | github | email | room 
+---|---|---|---|---
+Instructor | **Prof. Sung Kim** | [![@hunkim](http://github.com/hunkim.png?size=100)](http://github.com/hunkim) | humkim at cse | 2527
+TA | **Dr. Kevin Wang** |  [![@khwang0](http://github.com/khwang0.png?size=100)](http://github.com/khwang0) | kevinw at cse | TBA
+TA | **Hu Jiajun** | [![@RichardHoOoOo](http://github.com/RichardHoOoOo.png?size=100)](http://github.com/RichardHoOoOo) | jhuao at cse |
+TA | **WEI, Lili** | [![@frankFic](http://github.com/frankFic.png?size=100)](http://github.com/frankFic) | lweiae at cse | 
+TA | **Wong Kam Kwai**  | |     kkwongar at cse |
+TA | **Kwan Victor Wing-Chuen**  |  |  vwkwan at cse |
+TA | **Tang Wensheng** |  | wtangae at cse |
 
-Prof. Sung Kim ![@hunkim](http://github.com/hunkim)
-Email: hunkim at cse 
-Room: 2527
-
-### TAs
-
-* Dr. Kevin Wang ![@khwang0](http://github.com/khwang0)
-Email: kevinw at cse 
-
-* Wong Kam Kwai	
-Email: kkwongar at connect
-
-* Kwan Victor Wing-Chuen	
-Email: victorkwan at ucla dot edu
-
-* Tang Wensheng	
-Email: wtangae at connect
-
-* Hu Jiajun	 ![@RichardHoOoOo](http://github.com/RichardHoOoOo)
-Email: jhuao at cse 
-
-* WEI, Lili	![@frankFic](http://github.com/frankFic)
-Email: lweiae at cse 
 
 
 
