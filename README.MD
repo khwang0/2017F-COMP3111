@@ -76,13 +76,13 @@ Click the above link to find the lab page.
 ### ![Self Learning material](https://github.com/khwang0/Line-chatbot-for-COMP3111/tree/master/docs/tutorial)
 You are supposed to read the self-learning material according to the lab schedule.
   
-<!-- ## Grading
+## Grading
 
 * midterm 10%
 * final 20% 
 * lab 10%
 * group project 50%
-* individual assignment 10% -->
+* individual assignment 10% 
 
 
 ## Project Specification
@@ -95,13 +95,13 @@ This year we are working on a project about a chatbot (chatting robot) on the ap
 
 
 Prof. Sung Kim ![@hunkim](http://github.com/hunkim)
-Email: hunkim at cse dot ust dot hk
+Email: hunkim at cse 
 Room: 2527
 
 ### TAs
 
 * Dr. Kevin Wang ![@khwang0](http://github.com/khwang0)
-Email: kevinw at cse dot ust dot hk
+Email: kevinw at cse 
 
 * Wong Kam Kwai	
 Email: kkwongar at connect
@@ -112,11 +112,11 @@ Email: victorkwan at ucla dot edu
 * Tang Wensheng	
 Email: wtangae at connect
 
-* Hu Jiajun	
-Email: jhuao at connect
+* Hu Jiajun	 ![@RichardHoOoOo](http://github.com/RichardHoOoOo)
+Email: jhuao at cse 
 
-* WEI, Lili	
-Email: lweiae at connect
+* WEI, Lili	![@frankFic](http://github.com/frankFic)
+Email: lweiae at cse 
 
 
 
