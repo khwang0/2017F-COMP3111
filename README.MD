@@ -2,7 +2,7 @@
 
 ## News ##
 
-> 28/8/2017: There is no tutorial on 1/9/2017. 
+> 28/8/2017: There is no tutorial on 1/9/2017.  
 
 ## Course Information ##
 
@@ -31,7 +31,7 @@
  ---|Tutorial|---
  3111-T1 |Fr 06:00PM - 06:50PM | Rm 1104, Acad Concourse 
  3111-T2 |Th 05:00PM - 05:50PM |Rm 1104, Acad Concourse 
- 3111H-T1 | Fr 06:00PM - 06:50PM |	Rm 4502, Lift 25-26 
+ 3111H-T1 | Fr 06:00PM - 06:50PM |	<!-- ~~Rm 4502, Lift 25-26~~ Rm 1104, Acad Concourse --> To Be Confirmed
  ---|Lab|---
  3111-LA1 | Fr 11:00AM - 11:50AM | Rm 4210, Lift 19
  3111-LA2 | Th 06:00PM - 06:50PM | Rm 4210, Lift 19
@@ -76,19 +76,13 @@ Click the above link to find the lab page.
 ### ![Self Learning material](https://github.com/khwang0/Line-chatbot-for-COMP3111/tree/master/docs/tutorial)
 You are supposed to read the self-learning material according to the lab schedule.
   
-## Grading
+<!-- 
 
-* individual assignment 10% 
-* lab 10%
-* midterm 10%
-* final 20% 
-* group project 50%
-
- 
-
-## Project Specification
+## Project 
 This year we are working on a project about a chatbot (chatting robot) on the app LINE. Details will be released soon.
 
+## Assignment
+TBA -->
 
 ## Teaching Team
 
@@ -99,9 +93,26 @@ TA | **Dr. Kevin Wang** |  [![@khwang0](https://github.com/khwang0.png?size=100)
 TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?size=100)](https://github.com/RichardHoOoOo) | jhuao at cse |
 TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
 TA | **Wong Kam Kwai**  | |     kkwongar at cse |
-TA | **Kwan Victor Wing-Chuen**  | [![@victorkwan](https://github.com/victorkwan.png?size=100)](https://github.com/victorkwan) |  vwkwan at connect |
+TA | **Kwan Victor Wing-Chuen**  | <a href="https://github.com/victorkwan"><img src="https://github.com/victorkwan.png" width=100 alt="@victorkwan"/></a> |  vwkwan at connect |
 TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
 
 
+## Grading
 
+* individual assignment 10% 
+* lab 10%
+* midterm 10%
+* final 20% 
+* group project 50%
+
+
+
+### Assessment Rubrics
+
+| Course Learning Outcome   | Exemplary (A- to A+)    | Competent (C to B+)   | Needs Work (D to C- )  | Unsatisfactory (F)   |
+|-----|----|---|-----|----|
+| 1. Modeling applications  | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application.                                                                                                                         | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity with some help from TA and/or instructors. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application with a few errors. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she can understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she can understand provided solutions. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she cannot understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she cannot understand provided solutions. |
+| 2.Implementing applications  | The student is able to apply appropriate software engineering techniques to implement an application of medium complexity. The student can transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements. | The student is able to apply appropriate software engineering techniques to implement an application of medium complexity with some help. The student can transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with a few errors. | The student is barely able to apply appropriate software engineering techniques to implement an application of medium complexity even with much help. The student is barely able to transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with some errors. | The student is not able to apply appropriate software engineering techniques to implement an application of medium complexity even with much help. The student is not able to transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with some errors. |
+| 3. Function effectively as a member of a software development team: organize, manage and participate in a small software development team and plan and schedule the activities involved in developing the software for a medium-sized application. | The student can play various roles in a software development team. The student demonstrates both technical skills, project management skills, and mastery of the tools used in the project.      | The student can successfully play a particular role in the team and demonstrate good technical skills according to the project compilation requirement.  | The student can barely work as a member of the team. With help, the student can complete a significant part of the team assignment.  | The student cannot work as a member of the team. The student cannot communicate with the team members and cannot complete the team assignment. |
+ 
 
