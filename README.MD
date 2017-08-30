@@ -99,7 +99,7 @@ TA | **Dr. Kevin Wang** |  [![@khwang0](https://github.com/khwang0.png?size=100)
 TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?size=100)](https://github.com/RichardHoOoOo) | jhuao at cse |
 TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
 TA | **Wong Kam Kwai**  | |     kkwongar at cse |
-TA | **Kwan Victor Wing-Chuen**  |  |  vwkwan at cse |
+TA | **Kwan Victor Wing-Chuen**  | [![@victorkwan](https://github.com/victorkwan.png?size=100)](https://github.com/victorkwan) |  vwkwan at connect |
 TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
 
 
