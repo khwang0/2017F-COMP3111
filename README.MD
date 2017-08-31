@@ -92,7 +92,7 @@ Instructor | **Prof. Sung Kim** | [![@hunkim](https://github.com/hunkim.png?size
 TA | **Dr. Kevin Wang** |  [![@khwang0](https://github.com/khwang0.png?size=100)](https://github.com/khwang0) | kevinw at cse | TBA
 TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?size=100)](https://github.com/RichardHoOoOo) | jhuao at cse |
 TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
-TA | **Wong Kam Kwai**  | |     kkwongar at cse |
+TA | **Wong Kam Kwai**  | <a href="https://github.com/gzwongkk"><img src="https://github.com/gzwongkk.png" width=100 alt="@gzwongkk"/></a> |     kkwongar at connect |
 TA | **Kwan Victor Wing-Chuen**  | <a href="https://github.com/victorkwan"><img src="https://github.com/victorkwan.png" width=100 alt="@victorkwan"/></a> |  vwkwan at connect |
 TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
 
