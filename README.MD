@@ -39,35 +39,35 @@
  3111H-LA1| Mo 04:00PM - 04:50PM | Rm 4210, Lift 19
 
 ### Tentative Schedule
-| Wk # | Milestones/ Assignment/ Exam            | Lecture (Tu/Th) |        |                                                      | Lab (Mo/Tu/Th/Fr) |                           | Tutorial (Th/Fr) |                                     |
-|------|-----------------------------------------|-----------------|--------|------------------------------------------------------|-------------------|---------------------------|------------------|-------------------------------------|
-|      |                                         | #               | Date   | Topic                                                | #                 | Lab Topic                 | #                | Topic                               |
-| 1    |                                         | 1               | 5-Sep  | Overview and Project Introduction                    |                   |                           | 1 (**7-8/9**)               | Introduction / git / Java           |
-|      |                                         | 2               | 7-Sep  | Java                             |                   |                           |                  |                                     |
-| 2    | Sep 15: Milestone 0                     | 3               | 12-Sep | Java                                                 | 1                 | Deploying a chatbot       | 2                | Java/Spring                         |
-|      |                                         | 4               | 14-Sep | Java Spring                            |                   |                           |                  |                                     |
-| 3    | Sep 22:                                 | 5               | 19-Sep | Unit Test                             | 2                 | Chatbot with File         | 3                | Database                            |
-|      | Team formation Finalized                | 6               | 21-Sep | Git/Github                              |                   |                           |                  |                                     |
-| 4    |                                         | 7               | 28-Sep | Requirements                                         | 3                 | Chatbot with DB           |                  | Collecting User Requirement from TA |
-|      |                                         | 8               | 29-Sep | Development process I (code review/pair programming) |                   |                           |                  |                                     |
-<!-- | 5    |                                         | 9               | 3-Oct  | Development process II (Agile process scrum)         |                   | No lab                    |                  | Collecting User Requirement from TA |
-|      |                                         |                 | 5-Oct  | Mid-Autumn Festival                                  |                   |                           |                  |                                     |
-| 6    | Oct 12: Milestone 1                     | 10              | 10-Oct | UML (class diagram & user case)                      | 4                 | Creating classes from UML |                  | Q & A                               |
-|      |                                         | 11              | 12-Oct | Design Patterns                                      |                   |                           |                  |                                     |
-| 7    | Midterm                                 | 12              | 17-Oct | No class in the morning                              |                   | No lab                    | 4                | UML workshop                        |
-|      |                                         | 13              | 19-Oct | Design Patterns 2                                    |                   |                           |                  |                                     |
-| 8    |                                         | 14              | 24-Oct | Last Design Patterns                                 | 5                 | Design Pattern            | 5                | Design Pattern                      |
-|      |                                         | 15              | 26-Oct | Refactorings/Code Review                             |                   |                           |                  |                                     |
-| 9    | Nov 3: Milestone 2                      | 16              | 31-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)   | 6                 | Refactoring               |                  | Presenting Milestone 2 and Feedback |
-|      |                                         | 17              | 2-Nov  | White-box testing                                    |                   |                           |                  |                                     |
-| 10   | Nov 6: TA Intervention of Team conflict | 18              | 7-Nov  | Black box Testing                                    |                   | No lab                    |                  | Q & A                               |
-|      |                                         | 19              | 9-Nov  | Automatic testing (random, symbolic, concolic)       |                   |                           |                  |                                     |
-| 11   |                                         | 20              | 14-Nov | Joel Testing + CI                                    |                   | No lab                    | 6                | Javadoc                             |
-|      | Midterm II                              | 21              | 16-Nov | <empty>                                              |                   |                           |                  |                                     |
-| 12   | Nov 20: Milestone 3                     | 22              | 21-Nov | Automatic bug fixing                                 | 7                 | Javadoc                   | 7                | Testing and Debug                   |
-|      |                                         | 23              | 23-Nov | Deep API                                             |                   |                           |                  |                                     |
-| 13   |                                         | 24              | 28-Nov | Final presentation                                   |                   | No lab                    |                  | No Tutorial                         |
-|      |                                         | 25              | 30-Nov | Final presentation                                   |                   |                           |                  |                                     |
+| Wk # | Milestones/ Assignment/ Exam     | Lecture (Tu/Th) | |     | Lab (Mo/Tu/Th/Fr) |     | Tutorial (Th/Fr) |  |
+|------|-------|-----------------|--------|--------|-------------------|------|------------------|-------|
+|      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
+| 1    |    | 1 | 5-Sep  | Overview and Project Introduction  |   |  | 1 (**7-8/9**)  | Introduction / git / Java  |
+|      |      | 2 | 7-Sep  | Java |  |   |   |    |
+| 2    | Sep 15: Milestone 0    | 3   | 12-Sep | Java Spring | 1     | Deploying a chatbot| 2    | Java/Spring |
+|      |     | 4   | 14-Sep | Mastering Git/Github    ||   |      | |
+| 3    | Sep 22:  | 5 | 19-Sep | Development process I (code review/pair programming)     | 2| Chatbot with File  | 3  | Database    |
+|      | Team formation Finalized  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
+| 4    || 7 | 28-Sep | Requirements| 3| Chatbot with DB    | | Collecting User Requirement from TA |
+|      || 8 | 29-Sep | UML (class diagram & user case) |  |   | |   |
+<!-- | 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
+|      ||| 5-Oct  | Mid-Autumn Festival|  |   | |   |
+| 6    | Oct 12: Milestone 1    | 10| 10-Oct |  Design Patterns 2    | 4| Creating classes from UML | | Q & A|
+|      || 11| 12-Oct |  Design Patterns 3  |  |   | |   |
+| 7    | Midterm  | 12| 17-Oct | (7-9PM) No class in the morning      |  | No lab   | 4  | UML workshop|
+|      || 13| 19-Oct | Refactorings/Code Review  |  |   | |   |
+| 8    || 14| 24-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)  | 5| Design Pattern     | 5  | Design Pattern     |
+|      || 15| 26-Oct | White-box testing     |  |   | |   |
+| 9    | Nov 3: Milestone 2     | 16| 31-Oct | Black box Testing   | 6| Refactoring | | Presenting Milestone 2 and Feedback |
+|      || 17| 2-Nov  | Automatic testing (random, symbolic, concolic)  |  |   | |   |
+| 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | Joel Testing + CI  |  | No lab   | | Q & A|
+|      || 19| 9-Nov  | Automatic bug fixing |  |   | |   |
+| 11   || 20| 14-Nov | Deep API  |  | No lab   | 6  | Javadoc     |
+|      | Midterm II      | 21| 16-Nov | <empty>     |  |   | |   |
+| 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API 2  | 7| Javadoc  | 7  | Testing and Debug  |
+|      || 23| 23-Nov | Data-Driven Programming (Deep Learning)    |  |   | |   |
+| 13   || 24| 28-Nov | Final presentation |  | No lab   | | No Tutorial |
+|      || 25| 30-Nov | Final presentation |  |   | |   |
  -->
 
 ### ![Lab Page](https://github.com/khwang0/Line-chatbot-for-COMP3111)
@@ -101,8 +101,7 @@ TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=
 
 * individual assignment 10% 
 * lab 10%
-* midterm 10%
-* final 20% 
+* midterm I/II 30%
 * group project 50%
 
 
@@ -111,7 +110,7 @@ TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=
 
 | Course Learning Outcome   | Exemplary (A- to A+)    | Competent (C to B+)   | Needs Work (D to C- )  | Unsatisfactory (F)   |
 |-----|----|---|-----|----|
-| 1. Modeling applications  | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application.                                                                                                                         | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity with some help from TA and/or instructors. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application with a few errors. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she can understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she can understand provided solutions. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she cannot understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she cannot understand provided solutions. |
+| 1. Modeling applications  | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application.  | The student is able to apply appropriate modeling techniques to design software for an application of medium complexity with some help from TA and/or instructors. The student is able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application with a few errors. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she can understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she can understand provided solutions. | The student is not able to apply appropriate modeling techniques to design software for an application of medium complexity, but he/she cannot understand provided solutions. The student is not able to model and document data and processing requirements for an application using a modeling language and implement a disciplined software design for an application but he/she cannot understand provided solutions. |
 | 2.Implementing applications  | The student is able to apply appropriate software engineering techniques to implement an application of medium complexity. The student can transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements. | The student is able to apply appropriate software engineering techniques to implement an application of medium complexity with some help. The student can transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with a few errors. | The student is barely able to apply appropriate software engineering techniques to implement an application of medium complexity even with much help. The student is barely able to transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with some errors. | The student is not able to apply appropriate software engineering techniques to implement an application of medium complexity even with much help. The student is not able to transform requirements for an application, expressed in a modeling language, into a working software system, select appropriate algorithms to implement the stated requirements and design and implement a variety of tests to validate that a software system meets its stated requirements with some errors. |
 | 3. Function effectively as a member of a software development team: organize, manage and participate in a small software development team and plan and schedule the activities involved in developing the software for a medium-sized application. | The student can play various roles in a software development team. The student demonstrates both technical skills, project management skills, and mastery of the tools used in the project.      | The student can successfully play a particular role in the team and demonstrate good technical skills according to the project compilation requirement.  | The student can barely work as a member of the team. With help, the student can complete a significant part of the team assignment.  | The student cannot work as a member of the team. The student cannot communicate with the team members and cannot complete the team assignment. |
  
