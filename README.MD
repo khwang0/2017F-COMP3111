@@ -63,12 +63,12 @@
 | 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | Joel Testing + CI  |  | No lab   | | Q & A|
 |      || 19| 9-Nov  | Automatic bug fixing |  |   | |   |
 | 11   || 20| 14-Nov | Deep API  |  | No lab   | 6  | Javadoc     |
-|      | Midterm II      | 21| 16-Nov | <empty>     |  |   | |   |
+|      | Midterm II      | 21| 16-Nov | (7-9PM) No class in the morning     |  |   | |   |
 | 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API 2  | 7| Javadoc  | 7  | Testing and Debug  |
 |      || 23| 23-Nov | Data-Driven Programming (Deep Learning)    |  |   | |   |
 | 13   || 24| 28-Nov | Final presentation |  | No lab   | | No Tutorial |
 |      || 25| 30-Nov | Final presentation |  |   | |   |
- -->
+-->
 
 ### ![Lab Page](https://github.com/khwang0/Line-chatbot-for-COMP3111)
 Click the above link to find the lab page.
