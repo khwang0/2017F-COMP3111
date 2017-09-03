@@ -101,8 +101,9 @@ TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=
 
 * individual assignment 10% 
 * lab 10%
-* midterm I/II 30%
-* group project 50%
+* midterm I 20%
+* midterm II 20%
+* group project 40%
 
 
 
