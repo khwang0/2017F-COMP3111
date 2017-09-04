@@ -38,7 +38,8 @@
  3111-LA3 | Tu 03:00PM - 03:50PM | Rm 4210, Lift 19
  3111H-LA1| Mo 04:00PM - 04:50PM | Rm 4210, Lift 19
 
-### Tentative Schedule
+### Tentative Schedule (Please understand the schedule is still under review and subjected to change)
+
 | Wk # | Milestones/ Assignment/ Exam     | Lecture (Tu/Th) | |     | Lab (Mo/Tu/Th/Fr) |     | Tutorial (Th/Fr) |  |
 |------|-------|-----------------|--------|--------|-------------------|------|------------------|-------|
 |      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
@@ -50,7 +51,7 @@
 |      | Team formation Finalized  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
 | 4    || 7 | 28-Sep | Requirements| 3| Chatbot with DB    | | Collecting User Requirement from TA |
 |      || 8 | 29-Sep | UML (class diagram & user case) |  |   | |   |
-<!-- | 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
+| 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
 |      ||| 5-Oct  | Mid-Autumn Festival|  |   | |   |
 | 6    | Oct 12: Milestone 1    | 10| 10-Oct |  Design Patterns 2    | 4| Creating classes from UML | | Q & A|
 |      || 11| 12-Oct |  Design Patterns 3  |  |   | |   |
@@ -68,7 +69,7 @@
 |      || 23| 23-Nov | Data-Driven Programming (Deep Learning)    |  |   | |   |
 | 13   || 24| 28-Nov | Final presentation |  | No lab   | | No Tutorial |
 |      || 25| 30-Nov | Final presentation |  |   | |   |
--->
+
 
 ### ![Lab Page](https://github.com/khwang0/Line-chatbot-for-COMP3111)
 Click the above link to find the lab page.
