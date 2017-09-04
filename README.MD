@@ -95,7 +95,7 @@ TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](ht
 TA | **Wong Kam Kwai**  | <a href="https://github.com/gzwongkk"><img src="https://github.com/gzwongkk.png" width=100 alt="@gzwongkk"/></a> |     kkwongar at connect |
 TA | **Kwan Victor Wing-Chuen**  | <a href="https://github.com/victorkwan"><img src="https://github.com/victorkwan.png" width=100 alt="@victorkwan"/></a> |  vwkwan at connect |
 TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
-
+TA | **Chen Fuxiang** | <a href="https://github.com/cfuxiang"><img src="https://github.com/cfuxiang.png" width=100 alt="@cfuxiang"/></a> | fchenaa at cse |
 
 ## Grading
 
