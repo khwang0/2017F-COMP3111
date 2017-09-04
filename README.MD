@@ -45,11 +45,11 @@
 |      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
 | 1    |    | 1 | 5-Sep  | Overview and Project Introduction  |   |  | 1 (**7-8/9**)  | Introduction / git / Java  |
 |      |      | 2 | 7-Sep  | Java |  |   |   |    |
-| 2    | Sep 15: Milestone 0    | 3   | 12-Sep | Java Spring | 1     | Deploying a chatbot| 2    | Java/Spring |
+| 2    |     | 3   | 12-Sep | Java Spring | 1     | Deploying a chatbot| 2    | Java/Spring |
 |      |     | 4   | 14-Sep | Mastering Git/Github    ||   |      | |
 | 3    | Sep 22:  | 5 | 19-Sep | Development process I (code review/pair programming)     | 2| Chatbot with File  | 3  | Database    |
 |      | Team formation Finalized  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
-| 4    || 7 | 28-Sep | Requirements| 3| Chatbot with DB    | | Collecting User Requirement from TA |
+| 4    |Sep 27: Milestone 0| 7 | 28-Sep | Requirements| 3| Chatbot with DB    | | Collecting User Requirement from TA |
 |      || 8 | 29-Sep | UML (class diagram & user case) |  |   | |   |
 | 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
 |      ||| 5-Oct  | Mid-Autumn Festival|  |   | |   |
