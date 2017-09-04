@@ -51,7 +51,8 @@ Your group should pick one of the following topics. You are not allowed to chang
 > Expectation to H-group:
 > * Able to capture the menus from an image (i.e. doing OCR - https://github.com/Asprise/java-ocr-api)
 
-> Topic 3 – *Chatbot for HKUST Freshman*
+> Topic 3 – *Chatbot for HKUST Freshmen*
+>
 > Context: You are helping freshmen in adjusting their life in HKUST. Instead of just giving career prospect or advices of subject selections, more helps will be provided to HKUST freshman so that they are more ready to adjust themselves in HKUST. Examples like giving suitable URL when they need to access Canvas, add/drop, hostel application, etc or giving directions. Since this is a very open project, each group should provide at least 8 features.
 >
 > Initial material provided by TA:
