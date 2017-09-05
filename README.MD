@@ -31,7 +31,7 @@
  ---|Tutorial|---
  3111-T1 |Fr 06:00PM - 06:50PM | Rm 1104, Acad Concourse 
  3111-T2 |Th 05:00PM - 05:50PM |Rm 1104, Acad Concourse 
- 3111H-T1 | Fr 06:00PM - 06:50PM |	<!-- ~~Rm 4502, Lift 25-26~~ Rm 1104, Acad Concourse --> To Be Confirmed
+ 3111H-T1 | Fr 06:00PM - 06:50PM |	 ~~Rm 4502, Lift 25-26~~ Rm 1104, Acad Concourse 
  ---|Lab|---
  3111-LA1 | Fr 11:00AM - 11:50AM | Rm 4210, Lift 19
  3111-LA2 | Th 06:00PM - 06:50PM | Rm 4210, Lift 19
@@ -96,7 +96,6 @@ TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](ht
 TA | **Wong Kam Kwai**  | <a href="https://github.com/gzwongkk"><img src="https://github.com/gzwongkk.png" width=100 alt="@gzwongkk"/></a> |     kkwongar at connect |
 TA | **Kwan Victor Wing-Chuen**  | <a href="https://github.com/victorkwan"><img src="https://github.com/victorkwan.png" width=100 alt="@victorkwan"/></a> |  vwkwan at connect |
 TA | **Tang Wensheng** | [![@legendtang](https://github.com/legendtang.png?size=100)](https://github.com/legendtang) | wtangae at cse |
-TA | **Chen Fuxiang** | <a href="https://github.com/cfuxiang"><img src="https://github.com/cfuxiang.png" width=100 alt="@cfuxiang"/></a> | fchenaa at cse |
 TA | **Kim Mijung** | <a href="https://github.com/mjkim720"><img src="https://github.com/mjkim720.png" width=100 alt="@mjkim720"/></a> | mjkimab at cse |
 
 
