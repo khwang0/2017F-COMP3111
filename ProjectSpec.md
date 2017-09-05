@@ -75,6 +75,7 @@ Students should submit:
 *	Related references gathered from the web 
 *	Proposal of features and functions in the chatbot.
 *	Architecture design presented in UML
+
 TA will feedback:
 *	A Boolean score based on the fulfillment of each item
 *	Informal comments of the submit items.
@@ -86,6 +87,7 @@ Students should submit:
 *	Evidence of pull request, merge and commit log messages
 *	Rational of change of architecture design, if any
 *	Formal approval from the mock client of change of feature, if any
+
 TA will feedback:
 *	Score of scale [0 to 5] to each fulfilled item.
 *	A new requirement from the client/the marketing department.
@@ -98,6 +100,7 @@ Student should submit:
 *	Documentation of their code (Javadoc)
 *	Evident of fulfillment of the proposed feature
 *	Evident of fulfillment of the new client’s requirement
+
 TA will feedback:
 *	A score based on the fulfillment of given test cases.
 *	A score based on the fulfillment of extra test cases given negotiated in the client’s meeting, if any.
