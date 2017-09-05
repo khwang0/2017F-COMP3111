@@ -1,12 +1,12 @@
-# 2017 Fall COMP3111/3111H Project LINE Chatbot
+# 2017 Fall COMP3111/3111H Project LINE Chatbot (Under Draft)
 
 In this project you are supposed to develop a chatbot on the LINE platform. There are three topics for you to choose. You and your fellow group-mates shall pick one of these topic and complete the project according to the time-frame. The same time-frame is applied to all topics. Shall there be any problem you should contact Kevin (kevinw@cse.ust.hk) for clarification.
 
 ## Group: 
 
-Each group should consist of 4 or 5 students. Unless there is a strong reason and an approval from the teaching team, there should not be any group with less than 4 students or more than 5 students before Milestone 1.  To form a group you need to submit the list of group member together with the topic you choose from 18 Sep to 22 Sep online. The link will be available on the course webpage later. Each student enrolled to the course must be in one group. No student can appear in more than one group. No group can include a student who is not enrolled in the course. Students does not sign up for any group will be grouped by the TA.
+Each group should consist of 5 students. Unless there is a strong reason and an approval from the teaching team, there should not be any group with less than 5 students or more than 5 students before Milestone 1.  To form a group you need to submit the list of group member together with the topic you choose from 18 Sep to 22 Sep online. The link will be available on the course webpage later. Each student enrolled to the course must be in one group. No student can appear in more than one group. No group can include a student who is not enrolled in the course. Students does not sign up or groups with less than 5 people will be re-grouped by TAs.
 
-If a group has one or more students from COMP3111H, the group is labeled as H-group which is expected to accomplish more requirements (as specified in each topics). H-group and non H-group are graded together using the same set of rubrics.
+3111H students can form group with students from 3111H only.
 
 ## Time-frame:
 * Wk 1 – 3: bootstrap: familiar with the platform and assigning groups
