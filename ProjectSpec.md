@@ -74,7 +74,7 @@ Students should submit:
 *	Focus group meeting record and evidence (e.g. a photo) of such meeting really taken place (For Topic 2 and 3 only)
 *	Related references gathered from the web 
 *	Proposal of features and functions in the chatbot.
-*	Architecture design presented in UML
+
 
 TA will feedback:
 *	A Boolean score based on the fulfillment of each item
@@ -84,9 +84,10 @@ TA will feedback:
 ## Milestone 2 (Due: 3 Nov 2017):
 Students should submit:
 *	A running prototype on LINE that has implemented at least half of the features.
+*	Architecture design presented in UML
 *	Evidence of pull request, merge and commit log messages
-*	Rational of change of architecture design, if any
 *	Formal approval from the mock client of change of feature, if any
+
 
 TA will feedback:
 *	Score of scale [0 to 5] to each fulfilled item.
@@ -95,9 +96,11 @@ TA will feedback:
 ## Milestone 3 (Due: 20 Nov 2017):
 Student should submit:
 *	A bitbucket repository containing their code.
+*	Rational of change of architecture design, if any
 *	A LINE bot account ID that allows TA to test and grade.
 *	Test suites and the result.
 *	Documentation of their code (Javadoc)
+*   Evident of using project management software (e.g. Trello)
 *	Evident of fulfillment of the proposed feature
 *	Evident of fulfillment of the new client’s requirement
 
@@ -112,8 +115,10 @@ TA will feedback:
 Student should:
 *	Prepare a one-page poster (format PDF, orientation: landscape, to be projected on screen) that describes their project features and how it meets the requirements.
 *	Present their project within 5-7 minutes on stage.
+*   Describe how the software development techniques are applied in the project.
 *	Pick one or two features and describe its technical difficulty.
 *	Answer questions raised by the instructor and TAs.
+
 Instructor and TA will feedback:
 *	A score based on the appropriateness of the features.
 *	A score based on the hardness of the features.
