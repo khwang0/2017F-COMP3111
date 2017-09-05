@@ -43,7 +43,7 @@
 | Wk # | Milestones/ Assignment/ Exam     | Lecture (Tu/Th) | |     | Lab (Mo/Tu/Th/Fr) |     | Tutorial (Th/Fr) |  |
 |------|-------|-----------------|--------|--------|-------------------|------|------------------|-------|
 |      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
-| 1    |    | 1 | 5-Sep  | Overview and Project Introduction  |   |  | 1 (**7-8/9**)  | Introduction / git / Java  |
+| 1    |    | 1 | 5-Sep  | Overview and Project Introduction  |   |  | 1 (**7-8/9**)  | [Introduction / git / Java](https://course.cse.ust.hk/comp3111/tutorial/T1.pdf)  |
 |      |      | 2 | 7-Sep  | [Java](https://course.cse.ust.hk/comp3111/notes/java.pdf) |  |   |   |    |
 | 2    |     | 3   | 12-Sep | Java Spring | 1     | Deploying a chatbot| 2    | Java/Spring |
 |      |     | 4   | 14-Sep | Mastering Git/Github    ||   |      | |
