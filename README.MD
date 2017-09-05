@@ -44,7 +44,7 @@
 |------|-------|-----------------|--------|--------|-------------------|------|------------------|-------|
 |      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
 | 1    |    | 1 | 5-Sep  | Overview and Project Introduction  |   |  | 1 (**7-8/9**)  | Introduction / git / Java  |
-|      |      | 2 | 7-Sep  | Java |  |   |   |    |
+|      |      | 2 | 7-Sep  | [Java](https://course.cse.ust.hk/comp3021/notes/1-introduction-full.pdf) |  |   |   |    |
 | 2    |     | 3   | 12-Sep | Java Spring | 1     | Deploying a chatbot| 2    | Java/Spring |
 |      |     | 4   | 14-Sep | Mastering Git/Github    ||   |      | |
 | 3    | Sep 22:  | 5 | 19-Sep | Development process I (code review/pair programming)     | 2| Chatbot with File  | 3  | Database    |
