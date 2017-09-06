@@ -89,7 +89,7 @@ TBA -->
 
 Role | Name | github | email | room 
 ---|---|---|---|---
-Instructor | **Prof. Sung Kim** | [![@hunkim](https://github.com/hunkim.png?size=100)](https://github.com/hunkim) | humkim at cse | 2527
+Instructor | **Prof. Sung Kim** | [![@hunkim](https://github.com/hunkim.png?size=100)](https://github.com/hunkim) | hunkim at cse | 2527
 TA | **Dr. Kevin Wang** |  [![@khwang0](https://github.com/khwang0.png?size=100)](https://github.com/khwang0) | kevinw at cse | TBA
 TA | **Hu Jiajun** | [![@RichardHoOoOo](https://github.com/RichardHoOoOo.png?size=100)](https://github.com/RichardHoOoOo) | jhuao at cse |
 TA | **WEI, Lili** | [![@frankFic](https://github.com/frankFic.png?size=100)](https://github.com/frankFic) | lweiae at cse | 
