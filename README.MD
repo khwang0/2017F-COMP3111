@@ -45,7 +45,7 @@
 |      |   | # | Date   | Topic   | #   | Lab Topic      | #  | Topic |
 | 1    |    | 1 | 5-Sep  | [Overview and Project Introduction](https://course.cse.ust.hk/comp3111/notes/01-CourseInfo_WhySE+Project_Intro.pdf)  |   |  | 1 (**7-8/9**)  | [Introduction / git / Java](https://course.cse.ust.hk/comp3111/tutorial/T1.pdf)  |
 |      |      | 2 | 7-Sep  | [Java](https://course.cse.ust.hk/comp3111/notes/java.pdf) |  |   |   |    |
-| 2    |     | 3   | 12-Sep | [Java Spring](https://course.cse.ust.hk/comp3111/notes/03-WebServicesWithJavaSpring.pdf) | 1     | Deploying a chatbot| 2    | Java/Spring |
+| 2    |     | 3   | 12-Sep | [Java Spring](https://course.cse.ust.hk/comp3111/notes/03-WebServicesWithJavaSpring.pdf) | 1     | Deploying a chatbot| 2    | [Java/Spring](https://course.cse.ust.hk/comp3111/tutorial/T2.pdf) |
 |      |     | 4   | 14-Sep | [Mastering Git/Github](https://course.cse.ust.hk/comp3111/notes/04-SCM_Git.pdf)    ||   |      | |
 | 3    | Sep 22:  | 5 | 19-Sep | Development process I (code review/pair programming)     | 2| Chatbot with File  | 3  | Database    |
 |      | Team formation Finalized  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
