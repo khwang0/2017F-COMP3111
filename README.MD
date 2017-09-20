@@ -48,7 +48,7 @@
 | 2    |     | 3   | 12-Sep | [Java Spring](https://course.cse.ust.hk/comp3111/notes/03-WebServicesWithJavaSpring.pdf) | 1     | Deploying a chatbot| 2    | [Java/Spring](https://course.cse.ust.hk/comp3111/tutorial/T2.pdf) |
 |      |     | 4   | 14-Sep | [Mastering Git/Github](https://course.cse.ust.hk/comp3111/notes/04-SCM_Git.pdf)    ||   |      | |
 | 3    | Sep 22:  | 5 | 19-Sep | [Development process I (code review/pair programming)](https://course.cse.ust.hk/comp3111/notes/05_06-DevelopmentProcess.pdf)     | 2| Chatbot with File  | 3  | Database    |
-|      | Team formation Finalized  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
+|      | [Project Slide](https://course.cse.ust.hk/comp3111/tutorial/project-slide-0920.pdf)  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
 | 4    |Sep 27: Milestone 0| 7 | 28-Sep | Requirements| 3| Chatbot with DB    | | Collecting User Requirement from TA |
 |      || 8 | 29-Sep | UML (class diagram & user case) |  |   | |   |
 | 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
