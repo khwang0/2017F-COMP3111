@@ -2,9 +2,9 @@ Proposed Rubrics
 
 Milestone 1 (10%) | Meeting Record (4%) | Evidence of Meeting (1%) | Proposal of features (5%)
 ---|---|---|---
-Complete |  Meeting record should log conversation between client/group member in a tidy format and should be able to summarize the important points in the meeting. (4%) | Has a photo or voice recording. (1%)  | Each requirement shall be addressing one of the business requirement or user's current problem. The list shall be shall explanatory. (5pts*
+Complete |  Meeting record should log conversation between client/group member in a tidy format and should be able to summarize the important points in the meeting. (4%) | Has a photo or voice recording. (1%)  | Each requirement shall be addressing one of the business requirement or user's current problem. The list shall be shall explanatory. (5%)
 Not Good | Meeting record has log some conversation but it is unorganized. It is only able to point one or two important points in the meeting (2%) | - | Some requirements are written there but they are not very related to the business requirement or the user's current problem. (2.5%)
-Incomplete | Meeting record is empty or it is unable to tell the content of the meeting. (0%) | Missing (0%) | Features are not enough (< 8) or the features are not functional level requirements (0pts*
+Incomplete | Meeting record is empty or it is unable to tell the content of the meeting. (0%) | Missing (0%) | Features are not enough (< 8) or the features are not functional level requirements (0%)
 
 Milestone 2 (20%) | Prototype (10%) | UML (5%) | Git Log (5%) 
 ---|---|---|---
