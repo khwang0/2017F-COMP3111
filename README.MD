@@ -55,7 +55,7 @@
 | 3    | Sep 22:  | 5 | 19-Sep | [Development process I (code review/pair programming)](https://course.cse.ust.hk/comp3111/notes/05_06-DevelopmentProcess.pdf)     | 2| Chatbot with File  | 3  | [Database](https://course.cse.ust.hk/comp3111/tutorial/T3.pdf)    |
 |      | [Project Slide](https://course.cse.ust.hk/comp3111/tutorial/project-slide-0920.pdf)  | 6 | 21-Sep | Development process II (Agile process scrum)|  |   | |   |
 | 4    |Sep 27: Milestone 0| 7 | 28-Sep | [Requirements](https://course.cse.ust.hk/comp3111/notes/07-Requirements.pdf)| 3| Chatbot with DB    | | Collecting User Requirement from TA |
-|      || 8 | 29-Sep | UML (class diagram & user case) |  |   | |   |
+|      || 8 | 29-Sep | [UML (class diagram & user case)](https://course.cse.ust.hk/comp3111/notes/08-UML1.pdf) |  |   | |   |
 | 5    || 9 | 3-Oct  | Design Patterns 1 |  | No lab   | | Collecting User Requirement from TA |
 |      ||| 5-Oct  | Mid-Autumn Festival|  |   | |   |
 | 6    | Oct 12: Milestone 1    | 10| 10-Oct |  Design Patterns 2    | 4| Creating classes from UML | | Q & A|
