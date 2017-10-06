@@ -1,6 +1,8 @@
 # COMP3111/COMP3111H Course Webpage #
 
 ## News ##
+> 6/10/2017: Lab 4 released. Please attend your lab 4 (9/10-13/10).
+>
 > 26/9/2017: Please submit your topic on Canvas - group task
 >
 > 26/9/2017: Please submit your assignment 1 (milestone 0 on [Canvas](http://canvas.ust.hk/) - individual)
