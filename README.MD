@@ -60,7 +60,7 @@
 |      || 8 | 29-Sep | [UML (class diagram & user case)](https://course.cse.ust.hk/comp3111/notes/08-UML1.pdf) |  |   | |   |
 | 5    || 9 | 3-Oct  | [OO Modeling using UML II](https://course.cse.ust.hk/comp3111/notes/09-OOModeling%20II.pdf) |  | No lab   | | Q & A about Project (Open for all topics) |
 |      ||| 5-Oct  | Mid-Autumn Festival|  |   | |   |
-| 6    | Oct 12: Milestone 1    | 10| 10-Oct |  Design Patterns 2    | 4| UML Lab | | Q & A|
+| 6    | Oct 12: Milestone 1    | 10| 10-Oct |  [Design Patterns](https://course.cse.ust.hk/comp3111/notes/10-DP1-Architecture%20and%20Strategy.pdf)    | 4| UML Lab | | Q & A|
 |      || 11| 12-Oct |  Design Patterns 3  |  |   | |   |
 | 7    | Midterm  | 12| 17-Oct | (7-9PM) No class in the morning      |  | No lab   | 4  | UML workshop|
 |      || 13| 19-Oct | Refactorings/Code Review  |  |   | |   |
