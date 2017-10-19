@@ -65,7 +65,7 @@
 | 6    | Oct 12: Milestone 1    | 10| 10-Oct |  [Design Patterns](https://course.cse.ust.hk/comp3111/notes/10-DP1-Architecture%20and%20Strategy.pdf)    | 4| UML Lab | | [midterm Q & A](https://course.cse.ust.hk/comp3111/tutorial/T4.pdf)|
 |      || 11| 12-Oct |  [Design Patterns - Behavioral Patterns](https://course.cse.ust.hk/comp3111/notes/11-BehavioralPatterns.pdf)  |  |   | |   |
 | 7    | Midterm  | 12| 17-Oct | (7-9PM) No class in the morning      |  | No lab   | 4  | UML workshop|
-|      || 13| 19-Oct | Refactorings/Code Review  |  |   | |   |
+|      || 13| 19-Oct | [Design Patterns - Structural and Creational Pattern](https://course.cse.ust.hk/comp3111/notes/12-Structural-CreationalPatterns.pdf)  |  |   | |   |
 | 8    || 14| 24-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)  | 5| Design Pattern     | 5  | Design Pattern     |
 |      || 15| 26-Oct | White-box testing     |  |   | |   |
 | 9    | Nov 3: Milestone 2     | 16| 31-Oct | Black box Testing   | 6| Refactoring | | Presenting Milestone 2 and Feedback |
