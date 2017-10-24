@@ -66,15 +66,15 @@
 |      || 11| 12-Oct |  [Design Patterns - Behavioral Patterns](https://course.cse.ust.hk/comp3111/notes/11-BehavioralPatterns.pdf)  |  |   | |   |
 | 7    | Midterm  | 12| 17-Oct | (7-9PM) No class in the morning      |  | No lab   | 4  | [UML](https://course.cse.ust.hk/comp3111/tutorial/T5.pdf) |
 |      || 13| 19-Oct | [Design Patterns - Structural and Creational Pattern](https://course.cse.ust.hk/comp3111/notes/12-Structural-CreationalPatterns.pdf)  |  |   | |   |
-| 8    || 14| 24-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)  | 5| Design Pattern     | 5  | Design Pattern     |
-|      || 15| 26-Oct | White-box testing     |  |   | |   |
-| 9    | Nov 3: Milestone 2     | 16| 31-Oct | Black box Testing   | 6| Refactoring | | Presenting Milestone 2 and Feedback |
-|      || 17| 2-Nov  | Automatic testing (random, symbolic, concolic)  |  |   | |   |
+| 8    || 14| 24-Oct | [Refactoring](https://course.cse.ust.hk/comp3111/notes/13-Refactoring.pdf)  | 5| Design Pattern     | 5  | Design Pattern     |
+|      || 15| 26-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)     |  |   | |   |
+| 9    | Nov 3: Milestone 2     | 16| 31-Oct |  White-box testing   | 6| Refactoring | | Presenting Milestone 2 and Feedback |
+|      || 17| 2-Nov  | Black box Testing  |  |   | |   |
 | 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | Joel Testing + CI  |  | No lab   | | Q & A|
-|      || 19| 9-Nov  | Automatic bug fixing |  |   | |   |
-| 11   || 20| 14-Nov | Deep API  |  | No lab   | 6  | Javadoc     |
+|      || 19| 9-Nov  | Automatic testing (random, symbolic, concolic) |  |   | |   |
+| 11   || 20| 14-Nov | Automatic bug fixing  |  | No lab   | 6  | Javadoc     |
 |      | Midterm II      | 21| 16-Nov | (7-9PM) No class in the morning     |  |   | |   |
-| 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API 2  | 7| Javadoc  | 7  | Testing and Debug  |
+| 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API  | 7| Javadoc  | 7  | Testing and Debug  |
 |      || 23| 23-Nov | Data-Driven Programming (Deep Learning)    |  |   | |   |
 | 13   || 24| 28-Nov | Final presentation |  | No lab   | | No Tutorial |
 |      || 25| 30-Nov | Final presentation |  |   | |   |
