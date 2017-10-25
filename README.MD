@@ -66,9 +66,9 @@
 |      || 11| 12-Oct |  [Design Patterns - Behavioral Patterns](https://course.cse.ust.hk/comp3111/notes/11-BehavioralPatterns.pdf)  |  |   | |   |
 | 7    | Midterm  | 12| 17-Oct | (7-9PM) No class in the morning      |  | No lab   | 4  | [UML](https://course.cse.ust.hk/comp3111/tutorial/T5.pdf) |
 |      || 13| 19-Oct | [Design Patterns - Structural and Creational Pattern](https://course.cse.ust.hk/comp3111/notes/12-Structural-CreationalPatterns.pdf)  |  |   | |   |
-| 8    || 14| 24-Oct | [Refactoring](https://course.cse.ust.hk/comp3111/notes/13-Refactoring.pdf)  | 5| Design Pattern     | 5  | Design Pattern     |
+| 8    || 14| 24-Oct | [Refactoring](https://course.cse.ust.hk/comp3111/notes/13-Refactoring.pdf)  | 5| Design Pattern     | 5  | Midterm 1 exam paper checking     |
 |      || 15| 26-Oct | Debugging (reasoning) / DBG tools (profilers, dbg)     |  |   | |   |
-| 9    | Nov 3: Milestone 2     | 16| 31-Oct |  White-box testing   | 6| Refactoring | | Presenting Milestone 2 and Feedback |
+| 9    | Nov 3: Milestone 2     | 16| 31-Oct |  White-box testing   | 6| Refactoring | | Design Pattern and Refactoring |
 |      || 17| 2-Nov  | Black box Testing  |  |   | |   |
 | 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | Joel Testing + CI  |  | No lab   | | Q & A|
 |      || 19| 9-Nov  | Automatic testing (random, symbolic, concolic) |  |   | |   |
