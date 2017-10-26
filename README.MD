@@ -1,6 +1,9 @@
 # COMP3111/COMP3111H Course Webpage #
 
 ## News ##
+
+> 26/10/2017: Midterm I mark guide is avaliable [here](https://course.cse.ust.hk/comp3111/comp3111-midterm-2017-marking.pdf)
+>
 > 11/10/2017: Midterm I reminder (17/10/2017 evening). No lecture in the morning. [Details](./midterm1.md)
 >
 > 6/10/2017: Lab 4 released. Please attend your lab 4 (9/10-13/10).
