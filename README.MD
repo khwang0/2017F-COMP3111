@@ -71,7 +71,7 @@
 |      || 13| 19-Oct | [Design Patterns - Structural and Creational Pattern](https://course.cse.ust.hk/comp3111/notes/12-Structural-CreationalPatterns.pdf)  |  |   | |   |
 | 8    || 14| 24-Oct | [Refactoring](https://course.cse.ust.hk/comp3111/notes/13-Refactoring.pdf)  | 5| Design Pattern     | 5  | Midterm 1 exam paper checking     |
 |      || 15| 26-Oct | [Defensive Debugging Tools](https://course.cse.ust.hk/comp3111/notes/14-Defensive.pdf)    |  |   | |   |
-| 9    | [Nov 3: Milestone 2](https://course.cse.ust.hk/comp3111/tutorial/Project2.pdf)     | 16| 31-Oct |  [White-box testing](https://course.cse.ust.hk/comp3111/notes/15-Whitebox-blackbox-testing.pdf)   | 6| Refactoring | | Design Pattern and Refactoring |
+| 9    | [Nov 3: Milestone 2](https://course.cse.ust.hk/comp3111/tutorial/Project2.pdf)     | 16| 31-Oct |  [White-box testing](https://course.cse.ust.hk/comp3111/notes/15-Whitebox-blackbox-testing.pdf)   | 6| Refactoring | | [Design Pattern and Refactoring](https://course.cse.ust.hk/comp3111/tutorial/T6.pdf) |
 |      || 17| 2-Nov  | [Black box Testing](https://course.cse.ust.hk/comp3111/notes/16-BlackboxTesting.pdf)  |  |   | |   |
 | 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | Joel Testing + CI  |  | No lab   | | Q & A|
 |      || 19| 9-Nov  | Automatic testing (random, symbolic, concolic) |  |   | |   |
