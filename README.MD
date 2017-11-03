@@ -2,6 +2,8 @@
 
 ## News ##
 
+> 3/11/2017: New requirement released [here](./Project/new%20requirement.md)
+>
 > 26/10/2017: Midterm I mark guide is avaliable [here](https://course.cse.ust.hk/comp3111/comp3111-midterm-2017-marking.pdf)
 >
 > 11/10/2017: Midterm I reminder (17/10/2017 evening). No lecture in the morning. [Details](./midterm1.md)
