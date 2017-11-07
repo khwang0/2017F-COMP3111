@@ -66,13 +66,34 @@ Student should submit:
 TA will feedback:
 *	Score based on the fulfillment of each item (see [marking rubrics](./Project/Rubrics.md))
 
-## Final Presentation (Week 13 during the lecture time) (the format and details are to be finalized):
-Student should:
-*	Prepare a one-page poster (format PDF, orientation: landscape, to be projected on screen) that describes their project features and how it meets the requirements.
-*	Present their project within 5-7 minutes on stage.
-* Describe how the software development techniques are applied in the project.
-*	Pick one or two features and describe its technical difficulty.
-*	Answer questions raised by the instructor and TAs.
+## Final Presentation (Week 13 during the lecture time) (Updated):
+
+Submit the following before the presentation to Canvas:
+-   A 2-minutes video. (to Canvas)
+-   Sample input/output dialogs for each feature (max 4 pages). (to Canvas)
+
+Submit the following before the presentation at the beginning of that lecture:
+-   Five copies of one-page A4 size poster printed (each judge will have one copy, may reference to FYP posters).
+
+Format of presentation:
+-   No powerpoint slide is allowed.
+-   You will need to play the 2-minutes Video.
+-   Present their project within 10 minutes on stage.
+-   Answer questions raised by the instructor and TAs.
+
+The presentation should contains, but not limited to:
+* A quick summary of their completed features.
+* Details of one to two features in video format (2 minutes max)
+* All technologies they use. Pick one or two features and describe its technical difficulty.
+* Any algorithm they devised/adopted from paper.
+* The software methodology in the project development.
+* The most difficult issues you have faced in the project and how to handle it.
+* What you have learned from the project.
+
+
+
+
+
 
 Instructor and TA will feedback:
 *	Score based on the fulfillment of each item (see [marking rubrics](./Project/Rubrics.md))
@@ -83,6 +104,7 @@ It is not always but possible appearance of conflict within groups due to miscom
 *	Issue warning to any individual;
 *	Adjust individual scores; or
 *	Splitting the group;
+
 To request TA’s intervention, students shall email to all TAs via (csta3111@cse.ust.hk) and state the problem in their group. 
 
 
