@@ -3,7 +3,7 @@
 ```
 Date: 16/11/2017 (Thu)
 Time: TBD 
-Coverage: TBD
+Coverage: Design Psttern(include those covered in midterm 1)  to Joel test
 Format: Closed book - Closed note - Closed Electronic Devices
 ```
 
