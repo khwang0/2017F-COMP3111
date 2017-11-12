@@ -2,6 +2,9 @@
 
 ## News ##
 
+
+> 12/11/2017: midterm2 coveragw from design pattern(include those covwred in midterm 1)  to Joel testing
+>
 > 3/11/2017: New requirement released [here](./Project/new%20requirement.md)
 >
 > 26/10/2017: Midterm I mark guide is avaliable [here](https://course.cse.ust.hk/comp3111/comp3111-midterm-2017-marking.pdf)
