@@ -1,8 +1,8 @@
 # COMP3111/COMP3111H Course Webpage #
 
 ## News ##
-
-
+> 14/11/2017: [midterm 2 details](./midterm2.md)
+>
 > 12/11/2017: midterm2 coveragw from design pattern(include those covwred in midterm 1)  to Joel testing
 >
 > 3/11/2017: New requirement released [here](./Project/new%20requirement.md)
