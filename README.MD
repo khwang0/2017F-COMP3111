@@ -80,9 +80,9 @@
 |      || 17| 2-Nov  | [Black box Testing](https://course.cse.ust.hk/comp3111/notes/16-BlackboxTesting.pdf)  |  |   | |   |
 | 10   | Nov 6: TA Intervention of Team conflict | 18| 7-Nov  | [Automatic testing](https://course.cse.ust.hk/comp3111/notes/19-AutomaticSoftwareTesting.pdf)  |  | No lab   | | Q & A|
 |      || 19| 9-Nov  | [Joel CI](https://course.cse.ust.hk/comp3111/notes/18-Joel_CI.pdf) |  |   | |   |
-| 11   || 20| 14-Nov | [Midterm Review](https://course.cse.ust.hk/comp3111/notes/finalreview.pdf)  |  | No lab   | 6  | Javadoc     |
+| 11   || 20| 14-Nov | [Midterm Review](https://course.cse.ust.hk/comp3111/notes/finalreview.pdf)  |  | No lab   | 6  | [Javadoc and Coverage Test](https://course.cse.ust.hk/comp3111/tutorial/T7.pdf)     |
 |      | Midterm II      | 21| 16-Nov | (7-9PM) No class in the morning     |  |   | |   |
-| 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API  | 7| Javadoc  | 7  | Testing and Debug  |
+| 12   | Nov 20: Milestone 3    | 22| 21-Nov | Deep API  | 7| Javadoc  | 7  | Midterm 2 Appeal  |
 |      || 23| 23-Nov | Data-Driven Programming (Deep Learning)    |  |   | |   |
 | 13   || 24| 28-Nov | Final presentation |  | No lab   | | No Tutorial |
 |      || 25| 30-Nov | Final presentation |  |   | |   |
