@@ -69,21 +69,25 @@ TA will feedback:
 ## Final Presentation (Week 13 during the lecture time) (Updated):
 
 Submit the following before the presentation to Canvas:
--   A 2-minutes video. (to Canvas)
--   Sample input/output dialogs for each feature (max 4 pages). (to Canvas)
+-   ~~A 2-minutes video. (to Canvas)~~
+-   ~~Sample input/output dialogs for each feature (max 4 pages). (to Canvas)~~
+-   Slides or videos you want to project on screen. (You should not assume internet access is avaliable.)
+
 
 Submit the following before the presentation at the beginning of that lecture:
--   Five copies of one-page A4 size poster printed (each judge will have one copy, may reference to FYP posters).
+-   ~~Five~~ Seven copies of one-page A4 size poster printed (each judge will have one copy, may reference to FYP posters).
+-   The poster should at least contain the group number and names of every group member.
 
 Format of presentation:
--   No powerpoint slide is allowed.
--   You will need to play the 2-minutes Video.
--   Present their project within 10 minutes on stage.
+-   ~~No powerpoint slide is allowed.~~
+-   ~~You will need to play the 2-minutes Video.~~
+-   You are allowed to play a video for at most 5 minutes.
+-   Present their project within ~~10~~ 7 minutes on stage.
 -   Answer questions raised by the instructor and TAs.
 
 The presentation should contains, but not limited to:
 * A quick summary of their completed features.
-* Details of one to two features in video format (2 minutes max)
+* Details of one to two features in video format (5 minutes max)
 * All technologies they use. Pick one or two features and describe its technical difficulty.
 * Any algorithm they devised/adopted from paper.
 * The software methodology in the project development.
