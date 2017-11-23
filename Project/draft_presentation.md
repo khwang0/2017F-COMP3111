@@ -8,7 +8,7 @@ Please understand that we have 40 groups to present in two days which means one 
 > All presentation resources should be submitted to Canvas before 27/11/2017 5pm. TA will copy all the material to his portable harddisk.
 > If you decided to play a video, the length of the video must be less than 5 minutes.
 
-~~You will be able to play a video for at most 2 minutes. ~~
+~~You will be able to play a video for at most 2 minutes.~~
 
 You need to provide a hard copy poster which you need to print 7 copies (A4 size) of it before the presentation and give them to the judge. Optionally, you can also print some sample dialog of your bot. The poster should include at least your group number and all names of the group members.
 
