@@ -49,6 +49,7 @@ Group | Present Sequence | Date | Time
 [1] Project Group 21 | B-7 | 30/11 | 12:00-13:20 @ LT-D
 [1] Project Group 22 | B-8 | 30/11 | 12:00-13:20 @ LT-D
 [1] Project Group 67 | B-10 | 30/11 | 12:00-13:20 @ LT-D
+[3] Project Group 18 | B-10.5 | 30/11 | 12:00-13:20 @ LT-D
 [2] Project Group 6 | B-11 | 28/11 | 12:00-13:20 @ LT-D
 [2] Project Group 8 | B-12 | 28/11 | 12:00-13:20 @ LT-D
 [2] Project Group 13 | B-13 | 28/11 | 12:00-13:20 @ LT-D
@@ -56,7 +57,6 @@ Group | Present Sequence | Date | Time
 [2] Project Group 20 | B-15 | 28/11 | 12:00-13:20 @ LT-D
 [2] Project Group 80 - Approved | B-17 | 28/11 | 12:00-13:20 @ LT-D
 [3] Project Group 7 | B-18 | 28/11 | 12:00-13:20 @ LT-D
-[3] Project Group 18 | B-19 | 28/11 | 12:00-13:20 @ LT-D
 [3] Project Group 30 | B-20 | 28/11 | 12:00-13:20 @ LT-D
 [1] Project Group 23 | B-20.5 | 28/11 | 12:00-13:20 @ LT-D
 [2] Project Group 55 | B-21.5| 28/11 | 12:00-13:20 @ LT-D
